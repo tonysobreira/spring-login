@@ -1,2 +1,6 @@
---REPLACE INTO 'role' VALUES (1,'ADMIN');
-INSERT INTO role(role_id,role) VALUES (1,'ADMIN');
+--MySQL
+--REPLACE INTO 'roles' VALUES (1,'ADMIN');
+
+--Postgresql
+--INSERT INTO roles VALUES (1,'ADMIN');
+--INSERT INTO roles VALUES (2,'USER');
